@@ -5,9 +5,7 @@
 <div>
   <img src="assets/profile.png" width="100" align="left"/>
 
-  <p style="margin:0; font-size:13px; color:#666;">
-Made by Raein Seo
-</p>
+ ### Made by Raein Seo
 
   <p style="margin:4px 0;">📩 rein0ju06@gmail.com</p>
   <p>
