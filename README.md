@@ -2,7 +2,7 @@
   <img src="assets/profile.png" width="100" align="left"/>
 
 <p style="margin:0; color:#666;">
-Built by <strong>Raein Seo</strong>
+Designed & Developed by <strong>Raein Seo</strong>
 </p>
 
   <p style="margin:4px 0;">📩 rein0ju06@gmail.com</p>
