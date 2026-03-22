@@ -1,9 +1,9 @@
 <div>
   <img src="assets/profile.png" width="180" align="left" style="margin-right: 24px; margin-top: 8px;"/>
 
-  <h1 style="margin:0; border:none;">
+  <h2 style="margin:0; border:none;">
   🍒 Raein Seo
-  </h1>
+  </h2>
 
   <p style="margin:6px 0 14px 0; font-size:18px;">bridge</p>
 
