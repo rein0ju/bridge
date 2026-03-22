@@ -1,7 +1,7 @@
 <div>
   <img src="assets/profile.png" width="120" align="left" style="margin-right: 20px; margin-top: 5px;"/>
 
-  <div style="font-size:32px; font-weight:700;">
+  <div style="font-size:60px; font-weight:700;">
     🍒 Raein Seo
   </div>
 
