@@ -1,6 +1,7 @@
 <h1>🍒 Raein Seo</h1>
 
 ![증명사진](https://github.com/user-attachments/assets/8a084aa0-86cb-4bdf-935b-9f1fb4054e22)
+<img src="profile.png" width="250"/>
 
 <table>
   <tr>
