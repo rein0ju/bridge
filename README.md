@@ -1,9 +1,9 @@
 <div>
   <img src="assets/profile.png" width="100" align="left"/>
 
-<span style="font-weight:800; letter-spacing:0.5px;">
-Raein Seo
-</span>
+<p style="margin:0; color:#666;">
+Built by <strong>Raein Seo</strong>
+</p>
 
   <p style="margin:4px 0;">📩 rein0ju06@gmail.com</p>
   <p>
