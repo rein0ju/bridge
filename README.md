@@ -1,7 +1,7 @@
 <div>
   <img src="assets/profile.png" width="100" align="left"/>
 
-  ### 🍒 Raein Seo
+  ### Raein Seo
 
   <p style="margin:6px 0 14px 0; font-size:18px;">bridge</p>
 
