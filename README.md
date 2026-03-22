@@ -2,12 +2,10 @@
 
 <table>
   <tr>
-    <!-- 이미지 -->
     <td>
       <img src="assets/profile.png" width="180"/>
     </td>
-
-    <!-- 텍스트 -->
+    
     <td style="padding-left: 40px; vertical-align: middle;">
       <h2 style="margin:0;">Raein Seo</h2>
       <p style="margin:6px 0 12px 0; font-size:16px;">bridge</p>
