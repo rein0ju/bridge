@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/ profile.jpg" width="250" style="border-radius:50%;"/>    </td>
+      <img src="assets/profile.png" width="250" style="border-radius:50%;"/>    </td>
     <td style="padding-left: 40px;">
       <h2>bridge</h2>
       <p>📩 rein0ju06@gmail.com</p>
