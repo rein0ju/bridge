@@ -1,5 +1,5 @@
 <div>
-  <img src="assets/profile.png" width="150" align="left" style="margin-right: 20px; margin-top: 5px;"/>
+  <img src="assets/profile.png" width="130" align="left" style="margin-right: 20px; margin-top: 5px;"/>
 
   <div style="font-size:42px; font-weight:700;">
 🍒 Raein Seo
