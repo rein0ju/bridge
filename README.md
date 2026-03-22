@@ -3,8 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/profile.jpg" width="250"/>
-    </td>
+<img src="./assets/profile.jpg" width="250"/>    </td>
     <td style="padding-left: 40px;">
       <h2>bridge</h2>
       <p>📩 rein0ju06@gmail.com</p>
