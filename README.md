@@ -1,11 +1,12 @@
 <div>
-  <img src="assets/profile.png" width="130" align="left" style="margin-right: 20px; margin-top: 5px;"/>
+  <img src="assets/profile.png" width="180" align="left" style="margin-right: 24px; margin-top: 8px;"/>
 
-  <div style="font-size:42px; font-weight:700;">
-🍒 Raein Seo
-</div>
+  <h1 style="margin:0;">
+    🍒 Raein Seo
+  </h1>
 
-  <p style="margin:6px 0 12px 0;">bridge</p>
+  <p style="margin:6px 0 14px 0; font-size:18px;">bridge</p>
+
   <p style="margin:4px 0;">📩 rein0ju06@gmail.com</p>
   <p style="margin:4px 0;">🔗 <a href="#">LinkedIn</a> / <a href="#">Instagram</a></p>
 
