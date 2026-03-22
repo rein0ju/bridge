@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="증명사진.JPG" width="250"/>
+      <img src="profile.png" width="250"/>
     </td>
     <td style="padding-left: 40px;">
       <h2>bridge</h2>
