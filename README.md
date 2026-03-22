@@ -1,7 +1,3 @@
-
-
-
-
 <div>
   <img src="assets/profile.png" width="100" align="left"/>
 
