@@ -1,10 +1,10 @@
-# 🌉 Bridge
+# Bridge
 
 A campus onboarding platform for international students.
 
 ---
 
-## ✨ Overview
+## Overview
 
 Bridge helps international students navigate their first semester in the U.S. by organizing essential steps into a clear, simple flow.
 
