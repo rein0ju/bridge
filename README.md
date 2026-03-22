@@ -1,4 +1,6 @@
-# Bridge
+<h1>
+  Bridge
+</h1> 
 
 A campus onboarding platform for international students.
 
