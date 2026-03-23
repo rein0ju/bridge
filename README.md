@@ -1,8 +1,9 @@
-<h1>
-  Bridge
-</h1> 
+<p align="center">
+  <img src="assets/app-icon.png" width="120">
+</p>
 
-A campus onboarding platform for international students.
+<h1 align="center">Bridge</h1>
+<p align="center">A better start for international students</p>
 
 ## Overview
 
