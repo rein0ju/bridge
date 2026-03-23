@@ -2,7 +2,7 @@
   <img src="assets/logo.png" width="150">
 </p>
 
-<h1 align="center">Bridge</h1>
+<h1 align="center">bridge</h1>
 <p align="center">A better start for international students</p>
 
 ## Overview
