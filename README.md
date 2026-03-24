@@ -48,3 +48,8 @@ Built by <strong>Raein Seo</strong>
 <div>
    <img src="assets/6.png" width="265" align="center">    
 </div>
+
+## 📖 Case Study
+
+Read full case study:  
+[View Case Study](case-study.md)
