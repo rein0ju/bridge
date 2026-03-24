@@ -22,7 +22,9 @@ Built by <strong>Raein Seo</strong>
 </div>
 
 ### Bridge simplifies the onboarding experience for international students in the U.S.
+## Case Study
 
+→ [View Full UX Case Study](case-study.md)
 ## Bridge
 
 <div>
@@ -48,7 +50,3 @@ Built by <strong>Raein Seo</strong>
 <div>
    <img src="assets/6.png" width="265" align="center">    
 </div>
-
-## Case Study
-
-→ [View Full UX Case Study](case-study.md)
