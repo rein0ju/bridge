@@ -20,4 +20,9 @@ Built by <strong>Raein Seo</strong>
    <img src="assets/Bridge.png" width="1000" align="left">    
   <br clear="left"/>
 
+### Bridge helps international students navigate life in the U.S. by organizing essential steps into a clear and simple flow.
 
+## Screens
+
+![Screen1](figma/screen1.png)
+![Screen2](figma/screen2.png)
