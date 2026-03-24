@@ -49,7 +49,6 @@ Built by <strong>Raein Seo</strong>
    <img src="assets/6.png" width="265" align="center">    
 </div>
 
-## 📖 Case Study
+## Case Study
 
-Read full case study:  
-[View Case Study](case-study.md)
+→ [View Full UX Case Study](case-study.md)
