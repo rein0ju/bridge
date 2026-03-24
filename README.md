@@ -21,7 +21,7 @@ Built by <strong>Raein Seo</strong>
   <br clear="left"/>
 </div>
 
-### Bridge helps international students navigate life in the U.S. by organizing essential steps into a clear and simple flow.
+### Bridge simplifies the onboarding experience for international students in the U.S.
 
 ## Bridge
 
