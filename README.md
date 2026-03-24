@@ -20,6 +20,4 @@ Built by <strong>Raein Seo</strong>
    <img src="assets/Bridge.png" width="1000" align="left">    
   <br clear="left"/>
 
-## ┃Overview
-Bridge helps international students navigate life in the U.S. by organizing essential steps into a clear and simple flow.
 
