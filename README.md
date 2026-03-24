@@ -1,9 +1,3 @@
-<div>
-   <img src="assets/Bridge.png" width="150" align="left">    
-  <br clear="left"/>
-</div>
-
-
 ## 『Bridge』 <sub>_A better onboarding app for international students_ </sub>
 
 <div>
@@ -20,6 +14,11 @@ Built by <strong>Raein Seo</strong>
 </p>
   <br clear="left"/>
 </div>
+</div>
+
+<div>
+   <img src="assets/Bridge.png" width="1000" align="left">    
+  <br clear="left"/>
 
 ## ┃Overview
 Bridge helps international students navigate their first semester in the U.S. by organizing essential steps into a clear, simple flow.
