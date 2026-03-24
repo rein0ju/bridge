@@ -1,5 +1,5 @@
 <div>
-   <img src="assets/logo.png" width="150" align="left">    
+   <img src="assets/Bridge.png" width="150" align="left">    
   <br clear="left"/>
 </div>
 
