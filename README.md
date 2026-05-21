@@ -20,7 +20,7 @@ Built by <strong>Raein Seo</strong>
   <strong>Project Evolution</strong><br>
   Bridge started as a UX/UI case study in Figma and later expanded into early web and iOS prototypes. 
   <br>
-  - UX/UI Case Study: [View] (https://github.com/rein0ju/bridge) 
+  - UX/UI Case Study: <a href="https://github.com/rein0ju/bridge">Click here to view</a>
   <br>
   - Web Prototype: Coming soon
   <br>
