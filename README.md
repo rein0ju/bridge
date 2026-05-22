@@ -33,7 +33,7 @@ Built by <strong>Raein Seo</strong>
 </div>
 
 ### Bridge simplifies the onboarding experience for international students in the U.S.
-
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 
 ## Case Study
